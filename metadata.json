@@ -1,0 +1,6 @@
+{
+  "name": "ERMI PRO",
+  "description": "Ermi Video Production business management, Ethiopian calendar booking, schedule, customers, and payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
